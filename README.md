@@ -26,7 +26,6 @@
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat&logo=nginx&logoColor=ffffff)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)  
-
 ...
 
 <br/>
