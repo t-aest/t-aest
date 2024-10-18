@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I am 25 years old and have three years of experience in Java development.
+- 🤔 &nbsp; I am 26 years old and have three years of experience in Java development.
 - 🎓 &nbsp; Graduated from a general undergraduate university majoring in software engineering.
 - 💼 &nbsp; Has been working full-time on Java development in two companies.
 - 🌱 &nbsp; Currently learning in the direction of understanding technical principles.
