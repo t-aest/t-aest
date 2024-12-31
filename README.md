@@ -3,9 +3,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I am 26 years old and have three years of experience in Java development.
+- 🤔 &nbsp; I am 27 years old and have four years of experience in Java development.
 - 🎓 &nbsp; Graduated from a general undergraduate university majoring in software engineering.
-- 💼 &nbsp; Has been working full-time on Java development in two companies.
+- 💼 &nbsp; Has been working full-time on Java development in three companies.
 - 🌱 &nbsp; Currently learning in the direction of understanding technical principles.
 
 ### Languages and Tools :computer:
@@ -37,4 +37,4 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<a href="mailto:htaest@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-imtaest@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:htaest@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-htaest@foxemail.com-blue?style=flat-square&logo=gmail"></a>
