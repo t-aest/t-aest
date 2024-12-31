@@ -37,4 +37,4 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<a href="mailto:ttaest@126.com"><img alt="Email" src="https://img.shields.io/badge/Email-imtaest@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:htaest@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-imtaest@gmail.com-blue?style=flat-square&logo=gmail"></a>
